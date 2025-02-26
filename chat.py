@@ -10,7 +10,7 @@ from PIL import Image
 from streamlit_mic_recorder import mic_recorder  # For voice input in the general chatbot
 
 # Configuration
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "groq_api_key"
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
 HEADERS = {
     "Authorization": f"Bearer {GROQ_API_KEY}",
