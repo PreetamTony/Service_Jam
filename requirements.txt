@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+pytesseract
+requests
+google-api-python-client
+streamlit-mic-recorder
+Pillow
